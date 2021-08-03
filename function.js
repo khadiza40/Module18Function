@@ -19,7 +19,7 @@ function multiplication(num1 , num2) {
     return sub;
 }
 // function  call
-console.log(addition());
+console.log("Summetion of 2 numbers : ",addition());
 console.log("Substructrion of numbers : ",substruction(number1, number2));
 console.log("Multiplication of numbers :" , multiplication (number2 , number1));
 
